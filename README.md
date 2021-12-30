@@ -18,10 +18,10 @@ A very tiny (8KB!) mod injector. Poses as `dinput8.dll`, loads DLLs from `Native
 
 ## Versions
 
-- `TinyModLoader-x86`: 32-bit, loads mods immediately.
-- `TinyModLoader-x86-delay`: 32-bit, loads mods on first `DirectInput8Create` call.
-- `TinyModLoader-x64`: 64-bit, loads mods immediately.
-- `TinyModLoader-x64-delay`: 64-bit, loads mods on first `DirectInput8Create` call.
+- `TinyModInjector-x86`: 32-bit, loads mods immediately.
+- `TinyModInjector-x86-delay`: 32-bit, loads mods on first `DirectInput8Create` call.
+- `TinyModInjector-x64`: 64-bit, loads mods immediately.
+- `TinyModInjector-x64-delay`: 64-bit, loads mods on first `DirectInput8Create` call.
 
 ## Debugging
 
